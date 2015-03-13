@@ -1,13 +1,26 @@
 {
   "name": "bootstrapModalCollapseTransition",
-  "description": "A bower component that contains bootstrap js modal plugin, collapse plugin and transition plugin",
-  "main": ["modal.js", "collapse.js", "transition.js"],
-  "license": "MIT",
+  "main": [
+    "modal.js",
+    "collapse.js",
+    "transition.js"
+  ],
   "version": "0.0.0",
-  "ignore": ["**/.*"],
-  "keywords": ["bootstrap","modal","collapse","transition"],
-  "authors": ["climboid <oscarvillarreal14@gmail.com>"],
-  "private" : false,
-  "dependencies": {"jquery": "~2.1.1","bootstrap-sass-official": "~3.3.1"}
+  "author": {
+    "name": "climboid - Oscar Villarreal",
+    "email": "oscarvillarreal14@gmail.com"
+  },
+  "description": "A bower component that contains bootstrap js modal plugin, collapse plugin and transition plugin",
+  "keywords": [
+    "bootstrap",
+    "modal",
+    "collapse",
+    "transition"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ],
+  "dependencies": {}
 }
-
