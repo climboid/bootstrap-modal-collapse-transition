@@ -1,0 +1,20 @@
+{
+  "name": "bootstrapModalCollapseTransition",
+  "version": "0.0.0",
+  "authors": [
+    "Oscar Villarreal <oscarvillarreal14@gmail.com>"
+  ],
+  "description": "A bower component that contains bootstrap js modal plugin, collapse plugin and transition plugin",
+  "main": ["modal.js, collapse.js, transition.js"],
+  "keywords": [
+    "bootstrap",
+    "modal",
+    "collapse",
+    "transition"
+  ],
+  "dependencie":{
+    "jquery": "~2.1.1",
+    "bootstrap-sass-official": "~3.3.1",
+  }
+  "license": "MIT"
+}
