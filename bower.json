@@ -1,9 +1,9 @@
 {
-  "name": "bootstrapModalCollapseTransition",
+  "name": "bootstrap-modal-collapse-transition",
   "main": [
-    "modal.js",
-    "collapse.js",
-    "transition.js"
+    "modal.min.js",
+    "collapse.min.js",
+    "transition.min.js"
   ],
   "version": "0.0.0",
   "author": {
