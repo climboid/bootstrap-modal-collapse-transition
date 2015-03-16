@@ -1,11 +1,11 @@
 {
   "name": "bootstrap-modal-collapse-transition",
   "main": [
-    "modal.min.js",
-    "collapse.min.js",
-    "transition.min.js"
+    "modal.js",
+    "collapse.js",
+    "transition.js"
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "climboid - Oscar Villarreal",
     "email": "oscarvillarreal14@gmail.com"
